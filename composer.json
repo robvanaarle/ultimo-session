@@ -1,0 +1,22 @@
+{
+    "name": "robvanaarle/ultimo-session",
+    "description": "Extensible custom session handling and modular session storage",
+    "type": "library",
+    "keywords": [
+        "session",
+        "modular",
+        "custom"
+    ],
+    "license": "BSD-3-Clause",
+    "authors": [
+	  		{
+	    	  "name": "Rob van Aarle"
+	  		}
+	  ],
+    "autoload": {
+    		"psr-4": {
+       			"ultimo\\": "src/ultimo/"
+    		}
+  }
+}
+
